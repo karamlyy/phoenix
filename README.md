@@ -22,10 +22,10 @@
         <div class="card-container">
             <div class="card">
               <div class="front">
-                <img style="width: 1400px; height: 900px;" src="sekilada.jpg">
+                <img style="width: 100%; height: auto;" src="sekilada.jpg">
               </div>
               <div class="back">
-                <img style="width: 1400px; height: 900px;" src="adapic2.jpeg">
+                <img style="width: 100%; height: auto;" src="adapic2.jpeg">
               </div>
             </div>
           </div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
