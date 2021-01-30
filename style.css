@@ -53,7 +53,7 @@ body
     }
 div.solpanel{
     width: auto;
-    height: 450px;
+    height: 600px;
     background-color: #8083e0;
     margin-left: 10px;
     font-size: 20px;
@@ -64,8 +64,8 @@ div.solpanel{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 div.sagpanel{
-    width: 45%;
-    height: 450px;
+    width: auto;
+    height: 600px;
     background-color: #8083e0;
     margin-left: 10px;
     font-size: 20px;
